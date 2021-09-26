@@ -1,4 +1,4 @@
-# Applied_Data_Science_Capstone
+# IBM Watson Studio
 
 ## Editing the file
 
